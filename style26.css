@@ -1,0 +1,30 @@
+body{ 
+
+    font-family: 'open Sans' sans-serif;
+}
+h1{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Verdana,sans-serif;
+}
+h1{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height:24px;
+    font-family: Verdana sans-serif;
+
+  background-color: #FFF;
+  background-image: url('coucher-soleil.jpg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: top left;
+
+}
+p{
+
+    font: italic normal 16px/24px verdana,sans-serif;
+   background:#FFF url('coucher-soleil.jpg.jpg') no-repeat scroll left;
+}
